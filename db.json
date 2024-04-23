@@ -1,0 +1,53 @@
+{
+    "contacts": [
+      {
+        "nom": "Éloise Dubois",
+        "email": "eloise.dubois@example.com",
+        "adresse": "123 Rue de la Liberté, 75001 Paris, France",
+        "image": "img-1.jpeg"
+      },
+      {
+        "nom": "Nathan Lambert",
+        "email": "nathan.lambert@example.com",
+        "adresse": "456 Avenue des Champs-Élysées, 75008 Paris, France",
+        "image": "img-2.jpeg"
+      },
+      {
+        "nom": "Léa Dupont",
+        "email": "lea.dupont@example.com",
+        "adresse": "789 Boulevard Saint-Germain, 75006 Paris, France",
+        "image": "img-3.jpeg"
+      },
+      {
+        "nom": "Thomas Girard",
+        "email": "thomas.girard@example.com",
+        "adresse": "1010 Rue de Rivoli, 75001 Paris, France",
+        "image": "img-4.jpeg"
+      },
+      {
+        "nom": "Sarah Martin",
+        "email": "sarah.martin@example.com",
+        "adresse": "111 Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+        "image": "img-5.jpeg"
+      },
+      {
+        "nom": "Alexandre Lefèvre",
+        "email": "alexandre.lefevre@example.com",
+        "adresse": "1212 Avenue Montaigne, 75008 Paris, France",
+        "image": "img-6.jpeg"
+      },
+      {
+        "nom": "Camille Moreau",
+        "email": "camille.moreau@example.com",
+        "adresse": "1313 Rue de la Paix, 75002 Paris, France",
+        "image": "img-7.jpeg"
+      },
+      {
+        "nom": "Lucas Rousseau",
+        "email": "lucas.rousseau@example.com",
+        "adresse": "1414 Avenue de l'Opéra, 75001 Paris, France",
+        "image": "img-8.jpeg"
+      }
+    ]
+  }
+  

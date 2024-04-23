@@ -5,9 +5,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: red;
+}
+ /* App.css */
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto; /* Une seule colonne */
+  gap: 20px; /* Espacement entre les éléments de la grille */
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #ccc; /* Bordure autour de chaque conteneur */
+  padding: 20px; /* Espacement interne */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.contact-image {
+  width: 200px; /* Taille fixe de l'image */
+  height: auto; /* Hauteur automatique pour conserver le rapport hauteur/largeur */
+}
+
+.content {
+  margin-top: 20px; /* Espacement entre l'image et le texte */
+}
+
+.gras {
+  font-weight: bold;
 }
