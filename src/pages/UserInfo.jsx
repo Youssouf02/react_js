@@ -24,7 +24,7 @@ const App = () => {
     <div className="grid-container">
       {contacts.map((contact) => (
         <div className="container" key={contact.id}> 
-          <img className="contact-image" src={process.env.PUBLIC_URL + '/image/' + contact.image} alt={`Image de ${contact.nom}`} />
+          <img className="contact-image" src={process.env.PUBLIC_URL + '/image/' + contact.image} alt={` de ${contact.nom}`} />
           <div className="content">
             <p><span className="gras">Nom </span> : {contact.nom}</p> 
             <p><span className="gras">Email </span> : {contact.email}</p>
